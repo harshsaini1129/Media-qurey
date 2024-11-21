@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(50, 5, 5)
+}
+h1{
+    text-align: center;
+    color:whitesmoke;
+}
+ /* (min width)iss width tk ye color and bg color rakhna ha */
+@media (min-width:640px){
+     body{
+        background-color: rgb(1, 105, 105);
+     }
+     h1{
+        color:rgb(61, 25, 25)
+     }
+
+}

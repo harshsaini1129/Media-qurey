@@ -15,3 +15,12 @@ h1{
      }
 
 }
+@media (min-width:768px){
+     body{
+        background-color: rgb(50, 4, 54);
+     }
+     h1{
+        color:rgb(61, 25, 25)
+     }
+
+}
